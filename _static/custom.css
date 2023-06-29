@@ -1,0 +1,3 @@
+div.input[data-hide-code="true"] {
+  display: none !important;
+}
